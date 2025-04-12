@@ -1,7 +1,10 @@
+package Exercicio_while;
+
 import java.util.Scanner;
 public class App {
     public static void main(String[] args) throws Exception {
         Scanner sc = new Scanner(System.in);
+        
         System.out.println("Informe um número(0 encerra o codigo.)");
         int n1 = sc.nextInt();
         int menor = n1;
