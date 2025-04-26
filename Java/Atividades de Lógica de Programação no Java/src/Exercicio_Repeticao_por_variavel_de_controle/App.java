@@ -1,4 +1,4 @@
-package src.Exercicio_Repeticao_por_variavel_de_controle;
+package Exercicio_Repeticao_por_variavel_de_controle;
 import java.util.Scanner;
 
 public class App {
