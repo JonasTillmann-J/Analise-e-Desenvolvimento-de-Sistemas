@@ -1,4 +1,4 @@
-package src.Exercicio_while;
+package Exercicio_while;
 
 import java.util.Scanner;
 public class App {
