@@ -18,15 +18,27 @@ public class Atividades {
         System.out.println("Informe "+userData+" Números Inteiros");
         //inicialização do vetor
         int[] vetor = new int[userData];
+        int[] vetorInverso = new int[userData];
         //Alocando os Números no vetor
         for (int i = 0; i < vetor.length; i++) {
             System.out.println("Informe o "+(i+1)+"º Número");
             vetor[i] =  sc.nextInt();
             soma = soma + vetor[i];
         }
-            media = soma/userData;
+        System.out.println("-------------------------------\nNúmeros em ordem normal");
+        for (int  l = 0; l < vetor.length; l++) {   
+            System.out.println(vetor[l] + " ");
+        }
+
+        media = soma/userData;
         System.out.println("A soma dos seus números é: "+soma);
         System.out.println("A média dos seus números é: "+media);
+        System.out.println("\nNúmeros em ordem contraria");
+
+        for (int j = (vetor.length-1); j >= 0; j--) {
+            System.out.println(vetor[j] + " ");
+        }
+        
     }
     public void Atvd5_24(Scanner sc){
         System.out.println("Informe quantos numeros vc irá verificar");
