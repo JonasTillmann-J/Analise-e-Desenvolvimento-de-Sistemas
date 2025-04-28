@@ -1,0 +1,31 @@
+\----------------------------------------------------------------------------------------------------------------/
+
+Nível 01 - Fácil
+
+a) Escreva um algoritmo (ou programa java) que calcule a soma de todos os números pares maiores do que 328 e menores que 542. Mostre o total da soma na
+tela.
+
+b) Escreva um algoritmo (ou programa java) que fique lendo números inteiros do teclado, e some-os até que o número digitado seja igual a zero. Mostre o
+total da soma e a quantidade de números na tela.
+
+\----------------------------------------------------------------------------------------------------------------/
+
+Nível 02 - Médio
+
+c) Escreva um algoritmo (ou programa java) que leia dois números inteiros quaisquer sendo o segundo sempre maior que o primeiro, e calcule a quantidade
+de múltiplos do número 3 que existem entre eles.
+
+d) Escreva um algoritmo (ou programa java) que calcule a média dos números digitados pelo usuário, se eles forem pares. Termine a leitura se o usuário
+digitar zero (0).
+
+\----------------------------------------------------------------------------------------------------------------/
+
+Nível 03 - Difícil
+
+e) Escreva um algoritmo (ou programa java) que solicite ao usuário digitar um número inteiro maior do que 3 e menor do que 9 e calcule o seu Fatorial e
+o exiba na tela.
+
+f) Escreva um algoritmo (ou programa java) que solicite ao usuário digita um número inteiro qualquer e responda se se ele é ou não um número triângular.
+Caso ele não seja triangular, calcula qual o número mais próximo (acima ou abaixo - desde que positivo) que atenda a este requisito.
+
+\----------------------------------------------------------------------------------------------------------------/

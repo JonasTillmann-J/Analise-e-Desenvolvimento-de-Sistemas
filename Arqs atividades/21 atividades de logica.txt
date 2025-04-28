@@ -1,0 +1,115 @@
+Atividade: Revisão de fundamentos de Java 
+
+\----------------------------------------------------------------------------------------------------------------/
+
+Exercício 01: 
+Escreva um programa que imprima "Olá, mundo!" no console. 
+
+\----------------------------------------------------------------------------------------------------------------/
+
+Exercício 02: 
+Declare duas variáveis inteiras, atribua valores a elas e realize a soma dos mesmos, apresentando o resultado no console. 
+
+\----------------------------------------------------------------------------------------------------------------/
+
+Exercício 03: 
+Declare quatro variáveis do tipo Double (uma para cada nota e a última para a média) e calcule a média de três notas informadas pelo usuário através
+do console. Apresente o resultado no console. 
+
+\----------------------------------------------------------------------------------------------------------------/
+
+Exercício 04: 
+Escreva um programa que leia um número inteiro do usuário e verifique se ele é par ou ímpar. Imprima a mensagem correspondente no console. 
+
+\----------------------------------------------------------------------------------------------------------------/
+
+Exercício 05: 
+Escreva um programa que leia um número inteiro do usuário e verifique se ele é positivo, negativo ou zero. Imprima a mensagem correspondente no console. 
+
+\----------------------------------------------------------------------------------------------------------------/
+
+Exercício 06: 
+Crie um programa que leia a idade de uma pessoa e verifique se ela é maior de idade ou menor de idade. Imprima a mensagem correspondente no console. 
+
+\----------------------------------------------------------------------------------------------------------------/
+
+Exercício 07: 
+Crie um programa onde declare três variáveis inteiras, faça sua leitura e apresente no console o maior valor entre elas. 
+
+\----------------------------------------------------------------------------------------------------------------/
+
+Exercício 08: 
+Escreva um programa que calcule a soma dos primeiros 50 números inteiros. Imprima o resultado da soma correspondente no console. 
+
+\----------------------------------------------------------------------------------------------------------------/
+
+Exercício 09: 
+Crie um programa que leia dois números inteiros e realize as quatro operações matemáticas básicas (adição, subtração, multiplicação e divisão).
+Apresente os resultados no console. 
+
+\----------------------------------------------------------------------------------------------------------------/
+
+Exercício 10: 
+Peça para o usuário informar uma medida (inteira) relativa ao raio de um círculo. Calcule e apresente a área do círculo no console. 
+
+\----------------------------------------------------------------------------------------------------------------/
+
+Exercício 11: 
+Escreva um programa que leia o nome, altura e peso de uma pessoa e calcule seu índice de massa corporal (IMC). Imprima o resultado no console. 
+
+\----------------------------------------------------------------------------------------------------------------/
+
+Exercício 12: 
+Crie um programa que leia um número inteiro e verifique se ele é múltiplo de 3 e de 5. Imprima a mensagem correspondente no console. 
+
+\----------------------------------------------------------------------------------------------------------------/
+
+Exercício 13: 
+Escreva um programa que percorra os primeiros 100 números inteiros maiores do que zero e imprima no console o resultado da soma dos números pares e
+também dos números impares (separadamente). 
+
+\----------------------------------------------------------------------------------------------------------------/
+
+Exercício 14: 
+Escreva um programa que solicite um número inteiro maior ou igual a 2 e menor ou igual a 10, valide o número informado e em seguida calcule e
+apresente no console o fatorial do número informado. 
+
+\----------------------------------------------------------------------------------------------------------------/
+
+Exercício 15: 
+Crie um programa que leia um número inteiro e verifique se ele é primo. Imprima a mensagem correspondente no console. 
+
+\----------------------------------------------------------------------------------------------------------------/
+
+Exercício 16: 
+Escreva um programa que solicite 20 números inteiros positivos ao usuário e em seguida  calcule a média dos números informados, e ao final apresente o
+menor número digitado, o maior número digitado e a média dos números digitados. O programa deve validar que  o número informado é um número inteiro maior
+do que Zero e caso o usuário informe um número menor do que Zero o programa deve informar que o número informado é inválido e que o usuário deve informar
+o número correto. Números inválidos não devem ser considerados na contagem dos 20 números. 
+
+\----------------------------------------------------------------------------------------------------------------/
+
+Exercício 17: 
+Escreva um programa que leia cinco números inteiros e os ordene em ordem crescente. Apresente os números ordenados no console. 
+
+\----------------------------------------------------------------------------------------------------------------/
+
+Exercício 18: 
+Escreva um programa que leia cinco números inteiros e os ordene em ordem crescente. Apresente os números ordenados no console. 
+
+\----------------------------------------------------------------------------------------------------------------/
+
+Exercício 19: 
+Crie um programa que simule um jogo de adivinhação. O programa deve gerar um número aleatório entre 1 e 100 e pedir para o usuário tentar adivinhar o número.
+O programa deve dar dicas se o número é maior ou menor até que o usuário acerte. 
+
+\----------------------------------------------------------------------------------------------------------------/
+
+Exercício 20: 
+Crie um programa que leia um número inteiro e verifique se ele é um palíndromo. Imprima a mensagem correspondente no console. 
+
+\----------------------------------------------------------------------------------------------------------------/
+
+Exercício 21: 
+Escreva um programa que solicite ao usuário informar um número maior ou igual a 5 e escreva os N primeiros números da sequência de Fibonacci, onde N é o
+número informado pelo usuário.

@@ -1,0 +1,77 @@
+Atividades de Lógica de Programação no Portugol Studio Web 
+
+A seguir, apresentamos um conjunto de atividades voltadas para o ensino de lógica de programação utilizando 
+estruturas condicionais e estruturas de repetição no Portugol Studio Web. Essas atividades foram elaboradas para 
+consolidar conceitos fundamentais da programação. 
+\----------------------------------------------------------------------------------------------------------------/
+
+1. Soma dos Números de 1 a N 
+Descrição: Peça ao usuário um número N e some todos os números de 1 até N. 
+Estrutura utilizada: enquanto 
+
+\----------------------------------------------------------------------------------------------------------------/
+
+2. Adivinhe o Número 
+Descrição: Gere um número aleatório entre 1 e 100 e peça ao usuário para adivinhar. Informe se o número digitado 
+é maior ou menor até que ele acerte. 
+Estrutura utilizada: enquanto 
+
+\----------------------------------------------------------------------------------------------------------------/
+
+3. Senha Correta 
+Descrição: Peça para o usuário digitar uma senha. Caso esteja errada, continue pedindo até que ele acerte. (Senha 
+correta: "1234"). 
+Estrutura utilizada: enquanto 
+
+\----------------------------------------------------------------------------------------------------------------/
+
+4. Verificação de Número Primo 
+Descrição: O usuário informa um número e o programa verifica se ele é primo (divisível apenas por 1 e ele mesmo). 
+Estrutura utilizada: para e se ... então 
+
+\----------------------------------------------------------------------------------------------------------------/
+
+5. Contagem Regressiva 
+Descrição: O usuário digita um número e o programa exibe uma contagem regressiva até zero. 
+Estrutura utilizada: enquanto 
+
+\----------------------------------------------------------------------------------------------------------------/
+
+6. Soma dos Dígitos de um Número 
+Descrição: O usuário informa um número inteiro, e o programa soma todos os seus dígitos. 
+Exemplo: 123 → 1 + 2 + 3 = 6 
+Estrutura utilizada: enquanto 
+
+\----------------------------------------------------------------------------------------------------------------/
+
+7. Verificação de Número Perfeito 
+Descrição: O usuário digita um número e o programa verifica se ele é um número perfeito (a soma dos seus divisores 
+é igual a ele mesmo). 
+Exemplo: 6 → 1 + 2 + 3 = 6 
+Estrutura utilizada: para e se ... então 
+
+\----------------------------------------------------------------------------------------------------------------/
+
+8. Conversão de Temperatura 
+Descrição: O usuário escolhe se quer converter Celsius para Fahrenheit ou Fahrenheit para Celsius, informa o valor e 
+recebe o resultado da conversão. 
+Estrutura utilizada: se ... então ... senão 
+
+\----------------------------------------------------------------------------------------------------------------/
+
+9. Jogo de Par ou Ímpar 
+Descrição: O usuário joga contra o computador: 
+Escolhe par ou ímpar; 
+Digita um número entre 1 e 10; 
+O programa gera um número aleatório para o computador; 
+A soma dos números define o vencedor! 
+Estrutura utilizada: se ... então ... senão, enquanto, aleatório 
+
+\----------------------------------------------------------------------------------------------------------------/
+
+10. Caixa Eletrônico 
+Descrição: O usuário informa um valor a ser sacado (múltiplo de 10). O programa exibe quantas notas de 100, 50, 20 
+e 10 serão entregues. 
+Estrutura utilizada: enquanto e se ... então 
+
+\----------------------------------------------------------------------------------------------------------------/
