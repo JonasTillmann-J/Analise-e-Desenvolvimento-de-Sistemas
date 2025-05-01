@@ -1,9 +1,17 @@
 {
     "java.project.sourcePaths": [
+        "Java/21 Exercícios de Logica de Programação/src/Exercicio_12",
+        "Java/21 Exercícios de Logica de Programação/src/Exercicio_11",
+        "Java/21 Exercícios de Logica de Programação/src/Exercicio_10",
+        "Java/21 Exercícios de Logica de Programação/src/Exercicio_09",
+        "Java/21 Exercícios de Logica de Programação/src/Exercicio_08",
+        "Java/21 Exercícios de Logica de Programação/src/Exercicio_07",
+        "Java/21 Exercícios de Logica de Programação/src/Exercicio_06",
+        "Java/21 Exercícios de Logica de Programação/src/Exercicio_05",
         "Java/21 Exercícios de Logica de Programação/src/Exercicio_04",
         "Java/21 Exercícios de Logica de Programação/src/Exercicio_03",
         "Java/21 Exercícios de Logica de Programação/src/Exercicio_02",
         "Java/21 Exercícios de Logica de Programação/src/Exercicio_01",
-        "Java/21 Exercícios de Logica de Programação/src/Exercicio_05"
+        "Java/21 Exercícios de Logica de Programação/src/Exercicio_13"
     ]
 }
