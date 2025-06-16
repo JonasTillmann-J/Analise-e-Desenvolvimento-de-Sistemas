@@ -4,9 +4,10 @@ Bem-vindo ao repositório onde organizo meus projetos, atividades e trabalhos ac
 
 ---
 
-## 📘 Sobre o Curso
+## 📘 Sobre o Curso ##
 
-O curso de Análise e Desenvolvimento de Sistemas, realizado no Centro Universitário UniSociesc de Blumenau, forma profissionais com foco prático no desenvolvimento de software. A grade curricular abrange lógica de programação, modelagem de sistemas, estruturas de dados, banco de dados, desenvolvimento web, entre outros.
+O curso de Análise e Desenvolvimento de Sistemas, realizado no Centro Universitário UniSociesc de Blumenau (UniSociesc), forma profissionais com foco prático no desenvolvimento de software. A grade curricular abrange lógica de programação, modelagem de sistemas, estruturas de dados, banco de dados, desenvolvimento web, entre outros.
+
 ---
 
 ## 🧠 Disciplinas já cursadas
@@ -41,8 +42,8 @@ Este repositório será atualizado com frequência conforme novas disciplinas fo
 
 ## 📫 Contato
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-perfil)  
-- 📧 Email: [seu.email@exemplo.com](mailto:seu.email@exemplo.com)
+- 💼 [LinkedIn](http://www.linkedin.com/in/jonas-tillmann-junior-873416333)  
+- 📧 Email: [jonastillmann19@gmail.com](mailto:jonastillmann19@gmail.com)
 
 ---
 
